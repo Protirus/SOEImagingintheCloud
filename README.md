@@ -7,6 +7,16 @@
 
 > Cloud-based - Affordable Automation - No Infrastructure
 
+---
+
+See the [Article](https://protirus.com/Cases/Detail/19) on the Website.
+
+### Video
+
+[![Protirus Hardware Independent Imaging from the Cloud](https://img.youtube.com/vi/PiEGlASKj28/0.jpg)](https://www.youtube.com/watch?v=PiEGlASKj28)
+
+---
+
 ## Overview
 
 The design, configuration and build of a Windows® SOE image is typically a time-consuming technical challenge that requires significant capital expenditure. The importance of an easy and rapid SOE image maintenance cycle is often overlooked and can be costly.
